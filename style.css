@@ -158,7 +158,6 @@ main{
     overscroll-behavior-x: contain;
     scroll-snap-type: x proximity;
     margin: 0 35px;
-    overflow: hidden;
 }
 
 .main-currency-table{
@@ -441,7 +440,6 @@ main{
     overflow-x: scroll;
     overscroll-behavior-x: contain;
     scroll-snap-type: x proximity;
-    overflow: hidden;
 }
 
 .plans-container--card{
